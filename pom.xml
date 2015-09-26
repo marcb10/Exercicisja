@@ -24,6 +24,7 @@
           <archive>
             <manifest>
               <mainClass>edu.upc.eetac.dsa.marc.Exercici1.App</mainClass>
+              <mainClass>edu.upc.eetac.dsa.marc.Exercici2.AppInheritance</mainClass>
             </manifest>
           </archive>
         </configuration>
