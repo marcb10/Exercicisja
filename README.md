@@ -1,2 +1,1 @@
-Exercici de constructors
-Exercici de interfaz
+Per executar el programa s'ha de correr la classe App, excepte en els de UDP, i TCP, que son els dos.
