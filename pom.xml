@@ -27,6 +27,10 @@
               <mainClass>edu.upc.eetac.dsa.marc.Exercici2.AppInheritance</mainClass>
               <mainClass>edu.upc.eetac.dsa.marc.Exercici1_Excepcions.App</mainClass>
               <mainClass>edu.upc.eetac.dsa.marc.Exercici2_Excepcions.App</mainClass>
+              <mainClass>edu.upc.eetac.dsa.marc.Exercici_Concurrencia.App</mainClass>
+              <mainClass>edu.upc.eetac.dsa.marc.ExerciciThreads.App</mainClass>
+              <mainClass>edu.upc.eetac.dsa.marc.TCP_noconcurrente.App</mainClass>
+              <mainClass>edu.upc.eetac.dsa.marc.UDP_noconcurrente.Client</mainClass>
             </manifest>
           </archive>
         </configuration>
